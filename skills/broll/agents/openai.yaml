@@ -1,0 +1,4 @@
+interface:
+  display_name: "B-roll do YouTube"
+  short_description: "Encontre e organize b-roll a partir de um roteiro"
+  default_prompt: "Use $broll para encontrar vídeos de apoio no YouTube para este roteiro e relacionar cada trecho à fala que ele ilustra."
